@@ -33,8 +33,8 @@
 3. **Запустите приложение:**
    java -jar target/your-project.jar
 
-##Структура кода
-Основной класс: ConvertXMLtoXSLX
+## Структура кода
+**Основной класс:** ConvertXMLtoXSLX
 
  **Методы:**
 
